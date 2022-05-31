@@ -1,0 +1,3 @@
+# Kitaplik
+JavaScript, CSS ve HTML kullanılarak iletişim sayfası,ana sayfa ve kitaplar sayfasının bulunduğu küçük çaplı bir web sitesidir. Kullanım kolaylığı olarak web sitesinin arayüzü basit, sade ve kullanım kolaylığı açısından kullanıcının kolay bir şekilde istediği bilgiye ulaşmasını sağlayacak şekilde tasarlanmıştır. Kullanıcı karşılaştığı herhangi bir sorunu iletişim bölümündeki formdan
+gönderebilecektir. 
